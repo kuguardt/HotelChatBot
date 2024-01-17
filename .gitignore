@@ -74,3 +74,4 @@ crashlytics-build.properties
 # Inworld AI sample assets
 /[Aa]ssets/Inworld/Inworld.Samples.Innequin
 /[Aa]ssets/Inworld/Inworld.Samples.RPM
+/[Aa]ssets/Inworld/Inworld.Assets/Animations
